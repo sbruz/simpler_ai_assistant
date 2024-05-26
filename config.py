@@ -1,5 +1,3 @@
-OPENAI_API_KEY = "sk-proj-HtcsRRggliJbx50vL8tbT3BlbkFJHPruwvk3GnfBDqoDQ9sW"
-
 MAX_TOKENS = 2000
 
 MAX_SYMBOLS = 250
